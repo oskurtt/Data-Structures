@@ -1,0 +1,113 @@
+Loaded hansel_and_gretel.txt with window = 3 and parse method = ignore_punctuation
+
+could (5)
+could be (1)
+could get (1)
+could no (1)
+could not (2)
+
+could be (1)
+could be got (1)
+
+could get (1)
+could get in (1)
+
+could no (1)
+could no longer (1)
+
+could not (2)
+could not get (1)
+could not see (1)
+
+not (26)
+not awake (1)
+not be (1)
+not been (2)
+not come (1)
+not cry (1)
+not distress (1)
+not do (1)
+not eat (1)
+not escape (1)
+not find (3)
+not forget (1)
+not forsake (1)
+not get (2)
+not help (1)
+not know (1)
+not known (1)
+not long (1)
+not see (1)
+not the (1)
+not wait (1)
+not your (2)
+
+not find (3)
+not find it (1)
+not find the (1)
+not find their (1)
+
+not get (2)
+not get out (2)
+
+not see (1)
+not see it (1)
+
+get out (4)
+get out nevertheless (1)
+get out of (3)
+
+out of (7)
+out of his (2)
+out of it (1)
+out of the (3)
+out of their (1)
+
+could not get out of
+
+could not get out of the forest and cut some wood
+
+not find it they walked the
+
+not find it they walked the whole night and all the crumbs
+
+could no longer they lay
+
+could not get out of
+
+could get in myself and
+
+could not get out of
+
+could get in silly goose
+
+could not see it and shut the oven then gretel she
+
+could not see it and thought they were once safely across
+
+could not get out nevertheless he comforted his little coat opened
+
+could be got in and once gretel was inside she intended
+
+could get in then he went back and fetch you away
+
+not find the way into the
+
+not find their way out again
+
+not find it they walked the
+
+not find it they walked the
+
+not find it they walked the
+
+not find it they walked the whole of one round windowpane sat
+
+not find the way and when she saw both of them no
+
+not find their way out again there is also no ferry answered
+
+not find their way out again there is also no ferry answered
+
+not find their way out again there is also no ferry answered
+

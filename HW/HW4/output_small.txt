@@ -1,0 +1,23 @@
+Received new order #300 due in 15 minute(s):
+  small-cheese
+Running until next event.
+Order # 300 expired.
+15 minute(s) have passed.
+Running until next event.
+No events waiting to process.
+Received new order #302 due in 100 minute(s):
+  small-cheese
+Received new order #301 due in 15 minute(s):
+  small-cheese
+Received new order #303 due in 0 minute(s):
+  small-cheese
+Cooking new small-cheese with 25 minute(s) left.
+===Starting run of 50 minute(s)===
+Order # 303 expired.
+Order # 301 expired.
+Finished cooking small-cheese
+Filled order #302
+Removed a small-cheese from completed items.
+===Run for specified time is complete===
+===Starting run of 50 minute(s)===
+===Run for specified time is complete===

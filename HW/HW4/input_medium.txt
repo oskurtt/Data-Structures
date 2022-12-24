@@ -1,0 +1,44 @@
+add_order 212 30 1 extra-large-pepperoni
+add_order 5 35 1 small-cheese
+add_order 7 10 5 extra-large-pepperoni extra-large-pepperoni extra-large-pepperoni extra-large-pepperoni small-cheese
+add_order 300 1 1 small-cheese
+print_orders_by_time
+print_orders_by_id
+add_item 4 extra-large-sausage
+add_item 2 extra-large-pepperoni
+add_item 2 small-cheese
+add_item 1 large-pineapple
+add_item 4 extra-large-pepperoni
+run_for_time 8
+add_item 2 extra-large-pepperoni
+add_item 1 extra-large-pepperoni
+add_item 1 extra-large-pepperoni
+add_item 1 extra-large-pepperoni
+add_item 1 extra-large-pepperoni
+add_item 1 small-cheese
+print_kitchen_is_cooking
+print_kitchen_has_completed
+run_until_next
+print_orders_by_time
+print_orders_by_id
+print_kitchen_is_cooking
+print_kitchen_has_completed
+run_until_next
+print_orders_by_time
+print_orders_by_id
+print_kitchen_is_cooking
+print_kitchen_has_completed
+run_for_time 0
+print_orders_by_time
+print_orders_by_id
+print_kitchen_is_cooking
+print_kitchen_has_completed
+run_for_time 2
+print_orders_by_time
+print_orders_by_id
+print_kitchen_is_cooking
+print_kitchen_has_completed
+run_for_time 10
+run_until_next
+add_order 1 0 1 small-orange-soda
+run_until_next

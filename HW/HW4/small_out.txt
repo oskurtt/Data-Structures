@@ -1,0 +1,167 @@
+Received new order #212 due in 30 minute(s):
+  extra-large-pepperoni
+Received new order #5 due in 35 minute(s):
+  small-cheese
+Received new order #7 due in 10 minute(s):
+  extra-large-pepperoni
+  extra-large-pepperoni
+  extra-large-pepperoni
+  extra-large-pepperoni
+  small-cheese
+Received new order #300 due in 1 minute(s):
+  small-cheese
+Printing 4 order(s) by promised time remaining:
+  #300 (1 minute(s) left):
+    small-cheese
+  #7 (10 minute(s) left):
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    small-cheese
+  #212 (30 minute(s) left):
+    extra-large-pepperoni
+  #5 (35 minute(s) left):
+    small-cheese
+Printing 4 order(s) by ID:
+  #5 (35 minute(s) left):
+    small-cheese
+  #7 (10 minute(s) left):
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    small-cheese
+  #212 (30 minute(s) left):
+    extra-large-pepperoni
+  #300 (1 minute(s) left):
+    small-cheese
+Cooking new extra-large-sausage with 4 minute(s) left.
+Cooking new extra-large-pepperoni with 2 minute(s) left.
+Cooking new small-cheese with 2 minute(s) left.
+Cooking new large-pineapple with 1 minute(s) left.
+Cooking new extra-large-pepperoni with 4 minute(s) left.
+===Starting run of 8 minute(s)===
+Finished cooking large-pineapple
+Order # 300 expired.
+Finished cooking extra-large-pepperoni
+Finished cooking small-cheese
+Filled order #212
+Removed a extra-large-pepperoni from completed items.
+Filled order #5
+Removed a small-cheese from completed items.
+Finished cooking extra-large-pepperoni
+Finished cooking extra-large-sausage
+===Run for specified time is complete===
+Cooking new extra-large-pepperoni with 2 minute(s) left.
+Cooking new extra-large-pepperoni with 1 minute(s) left.
+Cooking new extra-large-pepperoni with 1 minute(s) left.
+Cooking new extra-large-pepperoni with 1 minute(s) left.
+Cooking new extra-large-pepperoni with 1 minute(s) left.
+Cooking new small-cheese with 1 minute(s) left.
+Printing 6 items being cooked:
+  extra-large-pepperoni (1 minute(s) left)
+  extra-large-pepperoni (1 minute(s) left)
+  extra-large-pepperoni (1 minute(s) left)
+  extra-large-pepperoni (1 minute(s) left)
+  small-cheese (1 minute(s) left)
+  extra-large-pepperoni (2 minute(s) left)
+Printing 3 completely cooked items:
+  large-pineapple
+  extra-large-pepperoni
+  extra-large-sausage
+Running until next event.
+Finished cooking extra-large-pepperoni
+1 minute(s) have passed.
+Printing 1 order(s) by promised time remaining:
+  #7 (1 minute(s) left):
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    small-cheese
+Printing 1 order(s) by ID:
+  #7 (1 minute(s) left):
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    small-cheese
+Printing 5 items being cooked:
+  extra-large-pepperoni (0 minute(s) left)
+  extra-large-pepperoni (0 minute(s) left)
+  extra-large-pepperoni (0 minute(s) left)
+  small-cheese (0 minute(s) left)
+  extra-large-pepperoni (1 minute(s) left)
+Printing 4 completely cooked items:
+  large-pineapple
+  extra-large-pepperoni
+  extra-large-sausage
+  extra-large-pepperoni
+Running until next event.
+Finished cooking extra-large-pepperoni
+0 minute(s) have passed.
+Printing 1 order(s) by promised time remaining:
+  #7 (1 minute(s) left):
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    small-cheese
+Printing 1 order(s) by ID:
+  #7 (1 minute(s) left):
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    small-cheese
+Printing 4 items being cooked:
+  extra-large-pepperoni (0 minute(s) left)
+  extra-large-pepperoni (0 minute(s) left)
+  small-cheese (0 minute(s) left)
+  extra-large-pepperoni (1 minute(s) left)
+Printing 5 completely cooked items:
+  large-pineapple
+  extra-large-pepperoni
+  extra-large-sausage
+  extra-large-pepperoni
+  extra-large-pepperoni
+===Starting run of 0 minute(s)===
+Finished cooking extra-large-pepperoni
+Finished cooking extra-large-pepperoni
+Finished cooking small-cheese
+Filled order #7
+Removed a extra-large-pepperoni from completed items.
+Removed a extra-large-pepperoni from completed items.
+Removed a extra-large-pepperoni from completed items.
+Removed a extra-large-pepperoni from completed items.
+Removed a small-cheese from completed items.
+===Run for specified time is complete===
+Printing 0 order(s) by promised time remaining:
+Printing 0 order(s) by ID:
+Printing 1 items being cooked:
+  extra-large-pepperoni (1 minute(s) left)
+Printing 3 completely cooked items:
+  large-pineapple
+  extra-large-sausage
+  extra-large-pepperoni
+===Starting run of 2 minute(s)===
+Finished cooking extra-large-pepperoni
+===Run for specified time is complete===
+Printing 0 order(s) by promised time remaining:
+Printing 0 order(s) by ID:
+Printing 0 items being cooked:
+Printing 4 completely cooked items:
+  large-pineapple
+  extra-large-sausage
+  extra-large-pepperoni
+  extra-large-pepperoni
+===Starting run of 10 minute(s)===
+===Run for specified time is complete===
+Running until next event.
+No events waiting to process.
+Received new order #1 due in 0 minute(s):
+  small-orange-soda
+Running until next event.
+Order # 1 expired.
+0 minute(s) have passed.

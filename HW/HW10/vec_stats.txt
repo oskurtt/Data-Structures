@@ -1,0 +1,2 @@
+operation time:     0
+input/output ratio: 18:2

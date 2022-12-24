@@ -1,0 +1,9 @@
+add_order 300 15 1 small-cheese
+run_until_next
+run_until_next
+add_order 302 100 1 small-cheese
+add_order 301 15 1 small-cheese
+add_order 303 0 1 small-cheese
+add_item 25 small-cheese 
+run_for_time 50
+run_for_time 50

@@ -1,0 +1,29 @@
+Printing 1 result(s):
+The_Shawshank_Redemption
+1994
+142
+1 Drama
+4 TimRobbins (Andy_Dufresne) MorganFreeman (Ellis_Boyd_'Red'_Redding) BobGunton (Warden_Norton) WilliamSadler (Heywood)
+Printing 3 result(s):
+Léon:_The_Professional
+1994
+110
+3 Crime Drama Thriller
+4 JeanReno (Leon) GaryOldman (Stansfield) NataliePortman (Mathilda) DannyAiello (Tony)
+The_Lion_King
+1994
+88
+3 Adventure Animation Drama
+4 MatthewBroderick (Simba) JeremyIrons (Scar) JamesEarlJones (Mufasa) WhoopiGoldberg (Shenzi)
+Three_Colors:_Red
+1994
+99
+3 Drama Mystery Romance
+4 IrèneJacob (Valentine) Jean-LouisTrintignant (Le_juge_Joseph_Kern) FrédériqueFeder (Karin) Jean-PierreLorit (Auguste)
+Printing 1 result(s):
+The_Shawshank_Redemption
+1994
+142
+1 Drama
+4 TimRobbins (Andy_Dufresne) MorganFreeman (Ellis_Boyd_'Red'_Redding) BobGunton (Warden_Norton) WilliamSadler (Heywood)
+No results for query.

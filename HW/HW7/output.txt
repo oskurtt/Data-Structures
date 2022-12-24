@@ -1,0 +1,113 @@
+Loaded hansel_and_gretel.txt with window = 3 and parse method = ignore_punctuation
+
+could (5)
+could be (1)
+could get (1)
+could no (1)
+could not (2)
+
+could be (1)
+could be got (1)
+
+could get (1)
+could get in (1)
+
+could no (1)
+could no longer (1)
+
+could not (2)
+could not get (1)
+could not see (1)
+
+not (26)
+not awake (1)
+not be (1)
+not been (2)
+not come (1)
+not cry (1)
+not distress (1)
+not do (1)
+not eat (1)
+not escape (1)
+not find (3)
+not forget (1)
+not forsake (1)
+not get (1)
+not help (1)
+not know (1)
+not known (1)
+not long (1)
+not see (1)
+not the (1)
+not wait (1)
+not your (1)
+
+not find (3)
+not find it (1)
+not find the (1)
+not find their (1)
+
+not get (2)
+not get out (2)
+
+not see (1)
+not see it (1)
+
+get out (4)
+get out nevertheless (1)
+get out of (3)
+
+out of (7)
+out of his (2)
+out of it (1)
+out of the (3)
+out of their (1)
+
+could be got in and
+
+could be got in and gretel are waiting for thee theres
+
+not find it they walked the
+
+not find it they walked the whole night and all the crumbs
+
+could no not
+
+could not get out of
+
+could be be
+
+could be not
+
+could get not
+
+could not get out of the forest seemed to be so
+
+could not see it and shut the iron door and when
+
+could get no
+
+could not see it and that was a feast day with
+
+could not not
+
+not find it they walked the
+
+not find it they walked the
+
+not find their way out again
+
+not find the way but they
+
+not find the way to help
+
+not find the way into the wood so that we may get
+
+not find it they walked the whole night long and by break
+
+not find it they walked the whole night and hansel threw one
+
+not find the way they walked the whole night long and by
+
+not find it they walked the whole of one round windowpane sat
+
